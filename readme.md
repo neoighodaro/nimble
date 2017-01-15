@@ -33,6 +33,6 @@ $router->get('/greetings', function () {
 
 Visit [http://localhost:8234/greetings](http://localhost:8234/greetings). You're done.
 
-<hr/>
+<br/><br/>
 
 <p align="center"><a href="https://neoighodaro.com" target="_blank">Creator</a></p>
