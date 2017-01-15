@@ -35,4 +35,7 @@ Visit [http://localhost:8234/greetings](http://localhost:8234/greetings). You're
 
 <br/><br/>
 
-<p align="center"><a href="https://neoighodaro.com" target="_blank">Creator</a></p>
+<p align="center">
+    <a href="https://neoighodaro.com" target="_blank">Creator</a> |
+    <a href="https://github.com/neoighodaro/nimble/graphs/contributors" target="_blank">Contributors</a>
+</p>
