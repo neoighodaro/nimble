@@ -20,7 +20,7 @@ you can easily get up and running. Using PHP's in-built php server. cd to your p
 $ php -S localhost:8234 -t public
 ```
 
-Now you open (http://localhost:8234)[http://localhost:8234] in your browser to see your application.
+Now you open [http://localhost:8234](http://localhost:8234) in your browser to see your application.
 
 ### Your first hello world.
 Open your `routes.php` file, and add a new route
@@ -31,4 +31,8 @@ $router->get('/greetings', function () {
 });
 ```
 
-Visit (http://localhost:8234/greetings)[http://localhost:8234/greetings]
+Visit [http://localhost:8234/greetings](http://localhost:8234/greetings). You're done.
+
+<hr/>
+
+<p align="center"><a href="https://neoighodaro.com" target="_blank">Creator</a></p>
