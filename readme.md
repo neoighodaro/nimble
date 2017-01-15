@@ -2,7 +2,7 @@
 
 <p align="center">Nimble is a super fast mini-framework for PHP built on top of optional loose components.</p>
 
-<hr/>
+<br/><br/>
 
 ### Installation
 
