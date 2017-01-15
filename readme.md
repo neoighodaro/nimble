@@ -11,6 +11,13 @@ Clone the repository
 ```shell
 $ git clone git@github.com:neoighodaro/nimble.git
 ```
+
+CD into your projects directory and run `composer install` if you don't have composer installed, install it.
+
+```shell
+php composer install
+```
+
 Start building. Some of the components are Illuminate components, each of them have a readme file in their directory on how to use the component or a link to the authors documentation.
 
 ### Running your application
