@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/807318/21964943/c2a4edfa-db55-11e6-9ae6-6532bf984599.png"></p>
 
-# Nimble
+
 Nimble is a super fast mini-framework for PHP built on top of optional loose components.
 
 ### Installation
