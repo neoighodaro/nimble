@@ -1,7 +1,5 @@
 <?php
 
-use League\CommonMark\Converter;
-
 if ( ! function_exists('app'))
 {
     /**
@@ -47,22 +45,4 @@ if ( ! function_exists('view'))
     {
         return app('view')->make($view, $parameters, $mergeData);
     }
-}
-
-if( ! function_exists('markdown'))
-{
-  /**
-   * Load an instance of the LeagueMarkdown for Operations
-   *
-   * @param  string $view
-   * @param  array  $parameters
-   * @param  array  $mergeData
-   * @return \Illuminate\Contracts\View\View
-   */
-
-   function markdown($data)
-   {
-     return app(Converter::class)->convertToHtml($data);
-   }
-   
 }
