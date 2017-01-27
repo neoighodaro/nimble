@@ -17,8 +17,4 @@ class MarkdownComponent extends Component{
 
   }
 
-  public function name(){
-    return 'markdown';
-  }
-
 }
