@@ -21,7 +21,7 @@ php composer install
 Start building. Some of the components are Illuminate components, each of them have a readme file in their directory on how to use the component or a link to the authors documentation.
 
 ### Running your application
-you can easily get up and running. Using PHP's in-built php server. cd to your projects directory and run
+You can easily get up and running. Using PHP's in-built php server. cd to your projects directory and run
 
 ```shell
 $ php -S localhost:8234 -t public

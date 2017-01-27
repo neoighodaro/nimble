@@ -7,10 +7,10 @@ if ( ! function_exists('app'))
     /**
      * Get the illuminate container instance.
      *
-     * @param  string $instance
+     * @param  string|false $instance
      * @return \Illuminate\Container\Container|mixed
      */
-    function app($instance)
+    function app($instance = false)
     {
         global $app;
 
