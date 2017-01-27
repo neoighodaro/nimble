@@ -14,9 +14,7 @@ class HomeController extends Controller {
     public function index()
     {
         return view('welcome', [
-            'sitename' => config('app.name'),
-            'tag'      => config('app.tag')
+            'sitename' => config('app.name')
         ]);
     }
-    
 }
