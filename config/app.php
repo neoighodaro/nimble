@@ -6,6 +6,7 @@ return [
     // Application name
     // ------------------------------------------------
 
-    'name' => 'Nimble'
+    'name' => 'Nimble',
+    'tag'  => 'The Light and Hackable Framework'
 
 ];
