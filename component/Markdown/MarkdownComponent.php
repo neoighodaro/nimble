@@ -5,16 +5,17 @@ namespace Nimble\Component\Markdown;
 use Nimble\Component\Component;
 use GrahamCampbell\Markdown\MarkdownServiceProvider;
 
-class MarkdownComponent extends Component{
+class MarkdownComponent extends Component {
 
-  public function setUp(){
-    //the would set up markdown component to start working
-    $markDown = new MarkdownServiceProvider($this->app);
-    //booting the markdown class
-    $markDown->boot();
+    public function setUp()
+    {
+        $markDown = new MarkdownServiceProvider($this->app);
+        $markDown->boot();
+        $markDown->register();
+    }
 
-    $markDown->register();
-
-  }
-
+    public function name()
+    {
+        return 'markdown';
+    }
 }

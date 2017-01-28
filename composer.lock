@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fbdd84ed3366047e5efec35a55a69d82",
     "content-hash": "fd54fca40b0acc33a5be061e33417773",
     "packages": [
         {
@@ -72,7 +71,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2015-11-06 14:35:42"
+            "time": "2015-11-06T14:35:42+00:00"
         },
         {
             "name": "graham-campbell/markdown",
@@ -134,7 +133,7 @@
                 "laravel",
                 "markdown"
             ],
-            "time": "2017-01-01 13:30:44"
+            "time": "2017-01-01T13:30:44+00:00"
         },
         {
             "name": "illuminate/cache",
@@ -184,7 +183,7 @@
             ],
             "description": "The Illuminate Cache package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-22 19:12:35"
+            "time": "2017-01-22T19:12:35+00:00"
         },
         {
             "name": "illuminate/config",
@@ -229,7 +228,7 @@
             ],
             "description": "The Illuminate Config package.",
             "homepage": "https://laravel.com",
-            "time": "2016-12-23 13:31:56"
+            "time": "2016-12-23T13:31:56+00:00"
         },
         {
             "name": "illuminate/container",
@@ -272,7 +271,7 @@
             ],
             "description": "The Illuminate Container package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-21 16:09:27"
+            "time": "2017-01-21T16:09:27+00:00"
         },
         {
             "name": "illuminate/contracts",
@@ -314,7 +313,7 @@
             ],
             "description": "The Illuminate Contracts package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-18 20:23:54"
+            "time": "2017-01-18T20:23:54+00:00"
         },
         {
             "name": "illuminate/database",
@@ -374,7 +373,7 @@
                 "orm",
                 "sql"
             ],
-            "time": "2017-01-23 23:03:28"
+            "time": "2017-01-23T23:03:28+00:00"
         },
         {
             "name": "illuminate/events",
@@ -419,7 +418,7 @@
             ],
             "description": "The Illuminate Events package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-20 14:16:32"
+            "time": "2017-01-20T14:16:32+00:00"
         },
         {
             "name": "illuminate/filesystem",
@@ -469,7 +468,7 @@
             ],
             "description": "The Illuminate Filesystem package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-03 14:19:43"
+            "time": "2017-01-03T14:19:43+00:00"
         },
         {
             "name": "illuminate/http",
@@ -515,7 +514,7 @@
             ],
             "description": "The Illuminate Http package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-22 16:28:50"
+            "time": "2017-01-22T16:28:50+00:00"
         },
         {
             "name": "illuminate/pipeline",
@@ -559,7 +558,7 @@
             ],
             "description": "The Illuminate Pipeline package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-17 14:21:32"
+            "time": "2017-01-17T14:21:32+00:00"
         },
         {
             "name": "illuminate/redis",
@@ -604,7 +603,7 @@
             ],
             "description": "The Illuminate Redis package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-17 13:55:22"
+            "time": "2017-01-17T13:55:22+00:00"
         },
         {
             "name": "illuminate/routing",
@@ -660,7 +659,7 @@
             ],
             "description": "The Illuminate Routing package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-20 14:16:32"
+            "time": "2017-01-20T14:16:32+00:00"
         },
         {
             "name": "illuminate/session",
@@ -710,7 +709,7 @@
             ],
             "description": "The Illuminate Session package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-17 14:21:32"
+            "time": "2017-01-17T14:21:32+00:00"
         },
         {
             "name": "illuminate/support",
@@ -767,7 +766,7 @@
             ],
             "description": "The Illuminate Support package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-24 13:12:44"
+            "time": "2017-01-24T13:12:44+00:00"
         },
         {
             "name": "illuminate/view",
@@ -815,7 +814,7 @@
             ],
             "description": "The Illuminate View package.",
             "homepage": "https://laravel.com",
-            "time": "2017-01-20 22:11:44"
+            "time": "2017-01-20T22:11:44+00:00"
         },
         {
             "name": "league/commonmark",
@@ -884,7 +883,7 @@
                 "markdown",
                 "parser"
             ],
-            "time": "2016-12-19 00:11:43"
+            "time": "2016-12-19T00:11:43+00:00"
         },
         {
             "name": "nesbot/carbon",
@@ -937,7 +936,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2017-01-16 07:55:07"
+            "time": "2017-01-16T07:55:07+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -985,7 +984,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-11-07 23:38:38"
+            "time": "2016-11-07T23:38:38+00:00"
         },
         {
             "name": "predis/predis",
@@ -1035,7 +1034,7 @@
                 "predis",
                 "redis"
             ],
-            "time": "2016-06-16 16:22:20"
+            "time": "2016-06-16T16:22:20+00:00"
         },
         {
             "name": "psr/log",
@@ -1082,7 +1081,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "symfony/debug",
@@ -1139,7 +1138,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1199,7 +1198,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         },
         {
             "name": "symfony/finder",
@@ -1248,7 +1247,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         },
         {
             "name": "symfony/http-foundation",
@@ -1301,7 +1300,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-08 20:47:33"
+            "time": "2017-01-08T20:47:33+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -1383,7 +1382,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-12 21:36:33"
+            "time": "2017-01-12T21:36:33+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1442,7 +1441,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-11-14 01:06:16"
+            "time": "2016-11-14T01:06:16+00:00"
         },
         {
             "name": "symfony/routing",
@@ -1517,7 +1516,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         },
         {
             "name": "symfony/translation",
@@ -1581,7 +1580,7 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         }
     ],
     "packages-dev": [],

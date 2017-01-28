@@ -15,8 +15,8 @@ return [
     Nimble\Component\View\ViewComponent::class,
     Nimble\Component\Config\ConfigComponent::class,
     Nimble\Component\Database\DatabaseComponent::class,
-    Nimble\Component\Markdown\MarkdownComponent::class,
 
     // Custom components
+    // Nimble\Component\Markdown\MarkdownComponent::class,
 
 ];
