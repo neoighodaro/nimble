@@ -51,6 +51,8 @@ $router->get('/greetings', function () {
     return 'Hello world';
 });
 ```
+Visit [http://localhost:8234/greetings](http://localhost:8234/greetings). You're done.
+
 ### Using the Markdown Feature
 To create view in markdown simply write your markdown view in the extension *.md, *.md.blade.php, or *.md.php, the full markdown syntax is supported.
 
@@ -62,7 +64,6 @@ simply call the helper function
   $htmlString     = markdown($markdownString); //<h2>Hello world</h2>
 ```
 
-Visit [http://localhost:8234/greetings](http://localhost:8234/greetings). You're done.
 
 <br/><br/>
 
