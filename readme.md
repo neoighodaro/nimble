@@ -1,6 +1,7 @@
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/807318/21964943/c2a4edfa-db55-11e6-9ae6-6532bf984599.png"></p>
 
 <p align="center">Nimble is a super fast mini-framework for PHP built on top of optional loose components.</p>
+<p align="center"><a href="https://www.codementor.io/neoighodaro?utm_source=github&utm_medium=button&utm_term=neoighodaro&utm_campaign=github"><img src="https://cdn.codementor.io/badges/get_help_github.svg"></a>
 
 <br/><br/>
 
