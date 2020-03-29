@@ -1,7 +1,9 @@
- # Config Component
+# Database Component
+
 This is the database component. It uses the Illuminate database component and **relies on the config component**. If you are using eloquent then it **requires the events component**.
 
 ## Installation
+
 Add the component to the list of the Components in your `app/components.php` file.
 
 ```php
